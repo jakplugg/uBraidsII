@@ -7,7 +7,7 @@
 
 [Google sheets BOM](https://docs.google.com/spreadsheets/d/1qPg4iMz02AhubgOIPSeuag0cT9fuQLDFEAjaWZSTI-4/edit#gid=0)
 
-First there was uBraids, the uModule that all this uInsanity, then Talldog's uBreaids SE, with a better display and no AVR programming, now with the same good display and a new easy to use layout, uBraids II!
+First there was uBraids, the uModule that started all this Insanity, then Talldog's uBraids SE, with a better display and no AVR programming, now with the same good display and a new easy to use layout, uBraids II!
 
 the main board is easier than the original uBraids, but the display board might be a bit difficult for those new at SMT soldering, 
 
